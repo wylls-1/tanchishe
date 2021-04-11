@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1567913252 source:c:\codeblocks17\c++\games\tanchishe\main.cpp
+	"tanchishe.h"
+
+1567913642 c:\codeblocks17\c++\games\tanchishe\tanchishe.h
+	<iostream>
+	<algorithm>
+	<list>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<cstdio>
+
